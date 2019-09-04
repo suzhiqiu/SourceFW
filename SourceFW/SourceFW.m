@@ -6,9 +6,9 @@
 //  Copyright © 2019 suzhiqiu. All rights reserved.
 //
 
-#import "SourceX.h"
+#import "SourceFW.h"
 
-@implementation SourceX
+@implementation SourceFW
 
 + (void)say {
     NSLog(@"say1");
@@ -16,10 +16,5 @@
     NSLog(@"say3");
     NSLog(@"say4");
     NSLog(@"say5");
-    NSLog(@"say6");
-    NSLog(@"say7");
-    NSLog(@"say8");
-    NSLog(@"say9");
-    NSLog(@"say10");
 }
 @end
